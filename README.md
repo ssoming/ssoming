@@ -1,7 +1,7 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Header+Image" alt="Header Image" width="100%" />
-</p>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=85fffd&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+</div>
+    
 
 <h1 align="center">Hi, I'm Minseo Kim 👋</h1>
 <p align="center">
