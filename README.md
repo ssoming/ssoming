@@ -77,10 +77,3 @@
 
 - **객체 인식기반 택배보안 시스템**
 ---
-
-## 📫 Contact
-- Email: your_email@gmail.com
-- GitHub: [github.com/your-id](https://github.com/ssoming)
-- Blog: [Tistory 링크](https://ssoming01.tistory.com/)
-
----
