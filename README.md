@@ -4,16 +4,16 @@
 
 <h2>Hi, I'm Minseo Kim 👋</h2>
 <p>
-Studying
+Studying...
 </p>
 
 
 ## 🙋 About Me
-- 여러 가지 도전을 해보면서 배우고 있는 개발자입니다.
+여러 가지 도전을 해보면서 배우고 있는 개발자입니다.
 
 
 ## 💼 Experience
-- 나도 이력 생기면 좋겠당.
+나도 이력 생기면 좋겠당.
 
 
 ## 🛠 Tech Stacks
