@@ -1,7 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=85fffd&height=120&text=&animation=&fontColor=000000&fontSize=70" />
 </div>
-    
 
 <h2>Hi, I'm Minseo Kim 👋</h2>
 <p>
