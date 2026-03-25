@@ -3,12 +3,11 @@
 </div>
     
 
-<h1 align="center">Hi, I'm Minseo Kim 👋</h1>
-<p align="center">
-  **Studying**
+<h2>Hi, I'm Minseo Kim 👋</h2>
+<p>
+Studying
 </p>
 
----
 
 ## 🙋 About Me
 - 여러 가지 도전을 해보면서 배우고 있는 개발자입니다.
