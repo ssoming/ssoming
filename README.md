@@ -20,54 +20,38 @@ Studying...
 
 ### Language
 <p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></a>
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 </p>
 
 ### Embedded
 <p>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html" target="_blank">
-    <img src="https://img.shields.io/badge/STM32F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  </a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html" target="_blank"><img src="https://img.shields.io/badge/STM32F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/></a>
 
-  <a href="https://digilent.com/reference/programmable-logic/basys-3/start" target="_blank">
-    <img src="https://img.shields.io/badge/Basys3-CC0000?style=for-the-badge"/>
-  </a>
+  <a href="https://digilent.com/reference/programmable-logic/basys-3/start" target="_blank"><img src="https://img.shields.io/badge/Basys3-CC0000?style=for-the-badge"/></a>
 </p>
 
 ### Communication
 <p>
-  <a href="https://mail.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-  <a href="https://github.com/ssoming" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://github.com/ssoming" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-  <a href="https://minseokim-profile.notion.site/310b5d65c68c800a9176e7c0c11ba68a?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
+  <a href="https://minseokim-profile.notion.site/310b5d65c68c800a9176e7c0c11ba68a?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
-  <a href="https://ssoming01.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge"/>
-  </a>
+  <a href="https://ssoming01.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge"/></a>
 </p>
 
 
 ## 📌 Projects
 
-- **Ultrasonic 기반 자동주행 RC Car**
+**Ultrasonic 기반 자동주행 RC Car**
 <a href = "https://drive.google.com/file/d/17mmZXHeqO_yIOB_Vvv6ToHoHbkSALJ8a/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/PDF-View_File-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PPT-Slides-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
 </a>
 
-- **객체 인식기반 택배보안 시스템**
+**객체 인식기반 택배보안 시스템**
 
 
 ## 📚 Study
