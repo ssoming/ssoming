@@ -61,7 +61,9 @@ Studying...
 
 
 ## 📌 Projects
-- **Ultrasonic 기반 자동주행 RC Car**
+<a href = "https://www.canva.com/design/DAHDdm-m4CE/coC6ayl9Q7-4ev2fxpRONg/view?utm_content=DAHDdm-m4CE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h909a080ab0">
+    ##### Ultrasonic 기반 자동주행 RC Car
+</a>
 
 - **객체 인식기반 택배보안 시스템**
 
