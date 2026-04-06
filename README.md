@@ -27,6 +27,10 @@ Studying...
 ### Embedded
 <p>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html"><img src="https://img.shields.io/badge/STM32F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/></a>
+</p>
+
+### FPGA
+<p>
 <a href="https://digilent.com/reference/programmable-logic/basys-3/start"><img src="https://img.shields.io/badge/Basys3-CC0000?style=for-the-badge"/></a>
 </p>
 
