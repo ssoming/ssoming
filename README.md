@@ -1,7 +1,7 @@
 <!-- Header -->
 <div>
 
-# 👋 Hi, I'm ssoming
+# 김민서(Minseo Kim)
 
 **Embedded Systems & FPGA Developer**
 
