@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-<sub>Last updated · 2026</sub>
+<sub>Last updated · 2026.05.28</sub>
 </div>
