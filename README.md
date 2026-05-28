@@ -1,51 +1,80 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=85fffd&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+<!-- Header -->
+<div align="center">
+
+# 👋 Hi, I'm ssoming
+
+**Embedded Systems & FPGA Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ssoming-181717?style=flat-square&logo=github)](https://github.com/ssoming)
+[![Notion](https://img.shields.io/badge/Notion-Notes-000000?style=flat-square&logo=notion)](https://notion.so)
+
 </div>
 
-<h2>Hi, I'm Minseo Kim 👋</h2>
-<p>
-여러 가지 도전을 해보면서 배우고 있는 개발자입니다.
-</p>
+---
 
 ## 💼 Experience
-나도 이력 생기면 좋겠당.
 
+> 🚧 *Coming soon*
+
+---
 
 ## 🛠 Tech Stacks
 
-### Language
-<p>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-</p>
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Embedded
-<p>
-<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f4-series.html"><img src="https://img.shields.io/badge/STM32F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/></a>
-</p>
+### Hardware & Platforms
+![STM32](https://img.shields.io/badge/STM32F4-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ATmega](https://img.shields.io/badge/ATmega128A-ED1C24?style=flat-square&logo=arduino&logoColor=white)
+![Basys3](https://img.shields.io/badge/Basys3_(FPGA)-E01F27?style=flat-square&logo=xilinx&logoColor=white)
 
-### FPGA
-<p>
-<a href="https://digilent.com/reference/programmable-logic/basys-3/start"><img src="https://img.shields.io/badge/Basys3-CC0000?style=for-the-badge"/></a>
-</p>
+### Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-### Communication
-<p>
-<a href="https://mail.google.com/"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ssoming"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://minseokim-profile.notion.site/310b5d65c68c800a9176e7c0c11ba68a?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<a href="https://ssoming01.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge"/></a>
-</p>
+---
 
-## 📌 Projects
+## 🚀 Projects
 
-**Ultrasonic 기반 자동주행 RC Car**
+### 📦 Embedded  
+> Board: **STM32F411**
 
-<a href = "https://drive.google.com/file/d/17mmZXHeqO_yIOB_Vvv6ToHoHbkSALJ8a/view?usp=drive_link"><img src="https://img.shields.io/badge/PPT-View-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/></a>
+| Project | Description |
+|---|---|
+| STM32 기반 IOT 선풍기 시스템 | 🚧 |
+| 다기능 엘리베이터 제어 시스템 | 🚧 |
+| 초음파센서 기반 자동주행 RC CAR | 🚧 |
+| 객체 인식 기반 택배 보안 시스템 | 🚧 |
 
-**객체 인식기반 택배보안 시스템**
+---
 
+### 🔧 RTL  
+> Board: **Basys3 (FPGA)**
 
-## 📚 Study
+| Project | Description |
+|---|---|
+| FPGA를 활용한 미니 게임기 시스템 | 🚧 |
 
+---
 
+### 💡 SoC  
+> Board: **Basys3 (FPGA)**
+
+| Project | Description |
+|---|---|
+| AXI 기반 Custom UART를 활용한 MAX7219의 문자열 출력 시스템 | 🚧 |
+| AXI 기반 Custom IP를 활용한 가속도 센서 기반 스마트 통신 만보기 | 🚧 |
+
+---
+
+## 📖 Study
+
+> 🚧 *Coming soon*
+
+---
+
+<div align="center">
+<sub>Last updated · 2026</sub>
+</div>
