@@ -1,5 +1,5 @@
 <!-- Header -->
-<div align="center">
+<div>
 
 # 👋 Hi, I'm ssoming
 
