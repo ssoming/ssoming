@@ -6,7 +6,7 @@
 **Embedded Systems & FPGA Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssoming)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://notion.so](https://app.notion.com/p/minseokim-profile/310b5d65c68c800a9176e7c0c11ba68a?source=copy_link))
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/minseokim-profile/310b5d65c68c800a9176e7c0c11ba68a?source=copy_link)
 
 </div>
 
