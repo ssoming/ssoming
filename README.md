@@ -36,6 +36,8 @@
 ### Tools
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssoming)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/minseokim-profile/310b5d65c68c800a9176e7c0c11ba68a?source=copy_link)
+[![Vivado](https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logo=xilinx&logoColor=white)]
+[![Vitis](https://img.shields.io/badge/Vitis-FF6600?style=for-the-badge&logo=xilinx&logoColor=white)]
 
 ---
 
