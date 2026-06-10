@@ -23,14 +23,12 @@
 ## 🛠 Tech Stacks
 
 ### Languages
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ssoming?tab=repositories&q=&type=&language=c&sort=)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ssoming?tab=repositories&q=&type=&language=python&sort=)
+[![Verilog](https://img.shields.io/badge/Verilog-HDL-red?style=for-the-badge&logo=verilog&logoColor=white)](https://github.com/ssoming?tab=repositories&q=&type=&language=vhdl&sort= )
 
-### Embedded
-[![ATmega](https://img.shields.io/badge/ATmega128A-ED1C24?style=for-the-badge&logo=arduino&logoColor=white)]()
+### Platform
 [![STM32](https://img.shields.io/badge/STM32F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://app.notion.com/p/minseokim-profile/STM32F4-33bb5d65c68c8044a79ce289d8755523?source=copy_link)
-
-### RTL / SoC
 [![Basys3](https://img.shields.io/badge/Basys3_(FPGA)-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)](https://app.notion.com/p/minseokim-profile/Basys3-364b5d65c68c80d88ef4d4d3566bff51?source=copy_link)
 
 ### Tools
@@ -50,7 +48,7 @@
 |---|---|---|
 | IOT 선풍기 시스템 | 🚧 | 🚧 |
 | 엘리베이터 제어 시스템 | 🚧 | 🚧 |
-| 자동주행 RC CAR | 🚧 | 🚧 |
+| 자동주행 RC CAR | [![Repository](https://img.shields.io/badge/🔗-Repository-blue?style=for-the-badge)](https://github.com/ssoming/RC_Car_Project) | 🚧 |
 | 택배 보안 시스템 | 🚧 | 🚧 |
 
 
@@ -69,9 +67,10 @@
 
 | Project | Repository | Description |
 |---|---|---|
-| MAX7219 문자열 출력 시스템 | 🚧 | 🚧 |
+| MAX7219 문자열 출력 시스템 | [![Repository](https://img.shields.io/badge/🔗-Repository-blue?style=for-the-badge)](https://github.com/ssoming/Project_UART) | 🚧 |
 | 가속도 센서 기반 스마트 만보기 | 🚧 | 🚧 |
 
+<!--
 ---
 
 ## 📖 Study
@@ -79,7 +78,8 @@
 > 🚧 *Coming soon*
 
 ---
+-->
 
 <div align="center">
-<sub>Last updated · 2026.05.28</sub>
+<sub>Last updated · 2026.06.10</sub>
 </div>
