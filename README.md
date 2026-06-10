@@ -48,7 +48,7 @@
 |---|---|---|
 | IOT 선풍기 시스템 | 🚧 | 🚧 |
 | 엘리베이터 제어 시스템 | 🚧 | 🚧 |
-| 자동주행 RC CAR | [![Repository](https://img.shields.io/badge/🔗-Repository-blue?style=for-the-badge)](https://github.com/ssoming/RC_Car_Project) | 🚧 |
+| 자동주행 RC CAR | [![Repository](https://img.shields.io/badge/🔗Repo-blue?style=for-the-badge)](https://github.com/ssoming/RC_Car_Project) | 🚧 |
 | 택배 보안 시스템 | 🚧 | 🚧 |
 
 
@@ -67,7 +67,7 @@
 
 | Project | Repository | Description |
 |---|---|---|
-| MAX7219 문자열 출력 시스템 | [![Repository](https://img.shields.io/badge/🔗-Repository-blue?style=for-the-badge)](https://github.com/ssoming/Project_UART) | 🚧 |
+| MAX7219 문자열 출력 시스템 | [![Repository](https://img.shields.io/badge/🔗Repo-blue?style=for-the-badge)](https://github.com/ssoming/Project_UART) | 🚧 |
 | 가속도 센서 기반 스마트 만보기 | 🚧 | 🚧 |
 
 <!--
