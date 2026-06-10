@@ -46,10 +46,10 @@
 
 | Project | Repository | Description |
 |---|---|---|
-| IOT 선풍기 시스템 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
-| 엘리베이터 제어 시스템 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
-| 자동주행 RC CAR | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/RC_Car_Project) | 🚧 |
-| 택배 보안 시스템 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
+| IOT 선풍기 시스템 | [![GitHub](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
+| 엘리베이터 제어 시스템 | [![GitHub](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
+| 자동주행 RC CAR | [![GitHub](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/RC_Car_Project) | 🚧 |
+| 택배 보안 시스템 | [![GitHub](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
 
 
 
@@ -58,7 +58,7 @@
 
 | Project | Repository | Description |
 |---|---|---|
-| 미니 게임기 시스템 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Pong_remaster) | 🚧 |
+| 미니 게임기 시스템 | [![GitHub](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Pong_remaster) | 🚧 |
 
 
 
@@ -67,8 +67,8 @@
 
 | Project | Repository | Description |
 |---|---|---|
-| MAX7219 문자열 출력 시스템 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_UART) | 🚧 |
-| 가속도 센서 기반 스마트 만보기 | [![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
+| MAX7219 문자열 출력 시스템 | [![GitHub](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_UART) | 🚧 |
+| 가속도 센서 기반 스마트 만보기 | [![GitHub](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
 
 <!--
 ---
