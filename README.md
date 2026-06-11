@@ -16,7 +16,7 @@
 
 ## 💼 Experience
 
-> 🚧 *Coming soon*
+> 🚧 
 
 ---
 
@@ -48,8 +48,8 @@
 |---|---|---|
 | IOT 선풍기 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
 | 엘리베이터 제어 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
-| 자동주행 RC CAR | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/RC_Car_Project) | 🚧 |
-| 택배 보안 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
+| 자동주행 RC CAR | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/RC_Car_Project) | 블루투스 수동 제어 및 초음파 장애물 자동 회피 RC Car |
+| 택배 보안 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/security_system) | YOLO 객체 인식을 활용한 이벤트 기반 통신 및 이중 카메라 녹화 |
 
 
 
@@ -58,7 +58,7 @@
 
 | Project | Repository | Description |
 |---|---|---|
-| 미니 게임기 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Pong_remaster) | 🚧 |
+| 미니 게임기 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Pong_remaster) | FPGA 기반 AI 대전 모드를 탑재한 Pong 게임 구현 |
 
 
 
@@ -67,8 +67,8 @@
 
 | Project | Repository | Description |
 |---|---|---|
-| MAX7219 문자열 출력 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_UART) | 🚧 |
-| 가속도 센서 기반 스마트 만보기 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
+| MAX7219 문자열 출력 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_UART) | AXI 기반 Custom UART IP를 활용한 MAX7219 디스플레이 제어 |
+| 가속도 센서 기반 스마트 만보기 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/step_counter_project) | AXI 기반 Custom IP와 MPU9250 기반 만보기 시스템 |
 
 <!--
 ---
@@ -81,5 +81,5 @@
 -->
 
 <div align="center">
-<sub>Last updated · 2026.06.10</sub>
+<sub>Last updated · 2026.06.11</sub>
 </div>
