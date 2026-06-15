@@ -25,7 +25,7 @@
 ### Languages
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ssoming?tab=repositories&q=&type=&language=c&sort=)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ssoming?tab=repositories&q=&type=&language=python&sort=)
-[![Verilog](https://img.shields.io/badge/Verilog-red?style=for-the-badge&logo=verilog&logoColor=white)](https://github.com/ssoming?tab=repositories&q=&type=&language=vhdl&sort= )
+[![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logo=v&logoColor=white)](https://github.com/ssoming?tab=repositories&q=&type=&language=vhdl&sort= )
 
 ### Platform
 [![STM32](https://img.shields.io/badge/STM32F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://app.notion.com/p/minseokim-profile/STM32F4-33bb5d65c68c8044a79ce289d8755523?source=copy_link)
