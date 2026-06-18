@@ -46,8 +46,10 @@
 
 | Project | Repository | Description |
 |---|---|---|
+<!--
 | IOT 선풍기 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
 | 엘리베이터 제어 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)]() | 🚧 |
+-->
 | 자동주행 RC CAR | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/RC_Car_Project) | 블루투스 수동 제어 및 초음파 장애물 자동 회피 RC Car |
 | 택배 보안 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/security_system) | YOLO 객체 인식을 활용한 이벤트 기반 통신 및 이중 카메라 녹화 |
 
