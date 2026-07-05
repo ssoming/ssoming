@@ -71,6 +71,15 @@
 | MAX7219 문자열 출력 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_CustomUART) | AXI 기반 Custom UART IP를 활용한 MAX7219 디스플레이 제어 |
 | 가속도 센서 기반 스마트 만보기 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_StepCounter) | AXI 기반 Custom IP와 MPU9250 기반 만보기 시스템 |
 
+
+### 🧠 NPU  
+> Board: **zyb0 z7-20 (FPGA)**
+
+| Project | Repository | Description |
+|---|---|---|
+| MAX7219 문자열 출력 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_NpuCNN) | CNN 추론을 FPGA 하드웨어로 구현한 Wafer 결함 자동 분류 시스템 |
+
+
 <!--
 ---
 
@@ -82,5 +91,5 @@
 -->
 
 <div align="center">
-<sub>Last updated · 2026.06.11</sub>
+<sub>Last updated · 2026.07.06</sub>
 </div>
