@@ -73,7 +73,7 @@
 
 
 ### 🧠 NPU  
-> Board: **zyb0 z7-20 (FPGA)**
+> Board: **zybo Z7-20 (FPGA)**
 
 | Project | Repository | Description |
 |---|---|---|
