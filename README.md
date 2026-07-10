@@ -3,7 +3,7 @@
 
 # 김민서(Minseo Kim)
 
-**Embedded Systems & FPGA Developer**
+**임베디드 펌웨어부터 FPGA RTL까지, 시스템의 경계를 넓히며 성장하는 엔지니어**
 
 <!--
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssoming)
@@ -30,12 +30,19 @@
 ### Platform
 [![STM32](https://img.shields.io/badge/STM32F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://app.notion.com/p/minseokim-profile/STM32F4-33bb5d65c68c8044a79ce289d8755523?source=copy_link)
 [![Basys3](https://img.shields.io/badge/Basys3_(FPGA)-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)](https://app.notion.com/p/minseokim-profile/Basys3-364b5d65c68c80d88ef4d4d3566bff51?source=copy_link)
+![Zybo Z7-20](https://img.shields.io/badge/Zybo_Z7--20_(FPGA)-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ### Tools
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssoming)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/minseokim-profile/310b5d65c68c800a9176e7c0c11ba68a?source=copy_link)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM_CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-8DAA7D?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Vitis](https://img.shields.io/badge/Vitis-DF5D5D?style=for-the-badge&logo=xilinx&logoColor=white)
+
+
+
+### Communication
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssoming)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/minseokim-profile/310b5d65c68c800a9176e7c0c11ba68a?source=copy_link)
 
 ---
 
@@ -73,11 +80,11 @@
 
 
 ### 🧠 NPU  
-> Board: **zybo Z7-20 (FPGA)**
+> Board: **Zybo Z7-20 (FPGA)**
 
 | Project | Repository | Description |
 |---|---|---|
-| MAX7219 문자열 출력 시스템 | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_NpuCNN) | CNN 추론을 FPGA 하드웨어로 구현한 Wafer 결함 자동 분류 시스템 |
+| NPU for Wafer Verification | [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ssoming/Project_NpuCNN) | CNN 추론을 FPGA 하드웨어로 구현한 Wafer 결함 자동 분류 시스템 |
 
 
 <!--
@@ -91,5 +98,5 @@
 -->
 
 <div align="center">
-<sub>Last updated · 2026.07.06</sub>
+<sub>Last updated · 2026.07.10</sub>
 </div>
